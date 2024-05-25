@@ -19,6 +19,18 @@
 			]
 		},
 		{
+			"Name": "ChaosEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "Dataflow",
+			"Enabled": false
+		},
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": false
+		},
+		{
 			"Name": "PCGWaterInterop",
 			"Enabled": true
 		},
